@@ -1,6 +1,6 @@
 # Tkinter Exercises for VIBOT - Computer Science: Python TD3
 
-This repository contains a series of 7 exercises developed during the first semester of the VIBOT master's program in the Computer Science: Python course. Each exercise is designed to practice and enhance skills in creating graphical user interfaces (GUIs) with Tkinter, a standard GUI library for Python. The exercises range from basic GUI elements to more complex applications, including a simple calculator.
+This repository contains a series of 7 exercises developed during the first semester of the VIBOT master's program in the Computer Science: Python course. Each exercise, designed and implemented by me, is aimed at practicing and enhancing skills in creating graphical user interfaces (GUIs) with Tkinter, a standard GUI library for Python. The exercises range from basic GUI elements to more complex applications, such as a simple calculator, and are of my complete authorship.
 
 ## Exercise Descriptions
 
