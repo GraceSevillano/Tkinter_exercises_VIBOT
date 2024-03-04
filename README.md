@@ -1,8 +1,19 @@
-# Tkinter Exercises for VIBOT - Computer Science: Python TD3
+# Tkinter Exercises for VIBOT - Computer Science: Python TD3 and TD2
 
-This repository contains a series of 7 exercises developed during the first semester of the VIBOT master's program in the Computer Science: Python course. Each exercise, designed and implemented by me, is aimed at practicing and enhancing skills in creating graphical user interfaces (GUIs) with Tkinter, a standard GUI library for Python. The exercises range from basic GUI elements to more complex applications, such as a simple calculator, and are of my complete authorship.
+This repository contains a series of 10 exercises developed during the first semester of the VIBOT master's program in the Computer Science: Python course. Each exercise, designed and implemented by me, is aimed at practicing and enhancing skills in creating graphical user interfaces (GUIs) with Tkinter, a standard GUI library for Python. The exercises range from basic GUI elements to more complex applications, such as a simple calculator, and are of my complete authorship.
 
-## Exercise Descriptions
+## Exercise Descriptions from TD2.pdf
+
+### Exercise 1: Checkerboard
+Develop a Tkinter application that displays a checkerboard. The canvas should be 300x300 pixels, with squares having a side length of 30 pixels. The program includes a specific function to draw a checkerboard pattern and another to draw a line of navy-colored squares.
+
+### Exercise 2: Drawing Application
+Create a Tkinter application encapsulating a canvas widget within a class. The application should offer a drawing area and buttons for drawing circles, lines, triangles, and a quit button to exit the application.
+
+### Exercise 3: Application with Menu Bar
+Develop a graphical application with Tkinter that includes a menu bar. The file menu should contain options for Open, Save, and Exit, while the account menu should offer items like card, transfer, and transaction.
+
+## Exercise Descriptions from TD3.pdf
 
 ### Exercise 1: User Information Interface
 Create a graphical interface that prompts the user to enter their name, first name, and date of birth. Upon submission, it displays a message with the entered information.
@@ -28,12 +39,12 @@ Program a simple calculator capable of performing addition, subtraction, multipl
 
 ## How to Run the Exercises
 
-Each exercise is contained within its own Python file, named `Exercise_1.py` through `Exercise_7.py`. To run an exercise, simply execute the corresponding file in your Python environment:
+Each exercise is contained within its own Python file, named `Exercise_1_TD2.py` through `Exercise_7_TD3.py`. To run an exercise, simply execute the corresponding file in your Python environment:
 
 ```bash
-python Exercise_1.py
+python Exercise_1_TD2.py
 ```
-Replace Exercise_1.py with the desired exercise number to run a different exercise.
+Replace Exercise_1_TD2.py with the desired exercise number to run a different exercise.
 
 ## Requirements
   Python 3.x
